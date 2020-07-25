@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Teamwork</string>
+    <string name="SignIn">SignIn</string>
+    <string name="SignUp">SignUp</string>
+    <string name="title_activity_home_">Home_Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>

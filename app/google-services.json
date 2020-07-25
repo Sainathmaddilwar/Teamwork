@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "215204507904",
+    "firebase_url": "https://fir-7a665.firebaseio.com",
+    "project_id": "fir-7a665",
+    "storage_bucket": "fir-7a665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215204507904:android:906fb67359c330f1af83e5",
+        "android_client_info": {
+          "package_name": "com.example.teamwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215204507904-c691oroi7jts3d8mhg4jqf06uk1v1e49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSP7UxxSqwGYncct0Xdl57b4OZkA8MRbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215204507904-c691oroi7jts3d8mhg4jqf06uk1v1e49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
